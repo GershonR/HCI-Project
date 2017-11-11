@@ -1,27 +1,10 @@
-Meteor Starter
-==============
-
-A Meteor boilerplate with a lot packed in. Written in Coffeescript.
-
-[Tutorials](http://learn.meteorfactory.io/meteor-starter/)
-
-[MIT License](http://choosealicense.com/licenses/mit/)
-
-Maintained by [Meteor Factory](https://meteorfactory.io). Professional Meteor development.
-
-[![Meteor starter](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/meteor-factory.jpg)](http://meteorfactory.io)
-
 ### Setup ####
 
 ```
-git clone https://github.com/yogiben/meteor-starter.git myapp
-cd myapp
+git clone https://github.com/GershonR/HCI-Project.git HCI
+cd HCI
 meteor
 ```
-
-### What's included ###
-#### Visitors####
-* Sexy landing page
 
 ####Users####
 * Login / Sign up etc. from [Accounts Entry](https://github.com/Differential/accounts-entry)
@@ -81,5 +64,3 @@ docker run -it --rm -p 3000:3000 --link mongodb:db -e "MONGO_URL=mongodb://db" -
 ![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/profile.png)
 ![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/like_comment.png)
 
-### Premium Support ###
-Have an urgent issue or want help with implementation? Start a conversation with [Meteor Factory](http://meteorfactory.io).
