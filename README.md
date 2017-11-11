@@ -61,6 +61,5 @@ docker run -it --rm -p 3000:3000 --link mongodb:db -e "MONGO_URL=mongodb://db" -
 ### Screenshots ###
 ![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/meteor-starter-5.png)
 ![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/login.png)
-![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/profile.png)
 ![alt tag](https://raw.githubusercontent.com/yogiben/meteor-starter/master/readme/like_comment.png)
 
